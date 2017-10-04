@@ -10,7 +10,7 @@ This script works for any games on Gamee Bot.
 5. Copy game address from browser.
 6. Edit index.php and change "score" variable to your desired score and change "gamepage" variable to the address you copied.
 7. Run index.php in your browser (localhost,...) and wait.
-8. As you see browser is showing up an alert containing game ranking, your scored has been set otherwise try again.
+8. As you see browser is showing up an alert containing game ranking, Your score has been set Otherwise try again.
 9. Have fun :).
 
 Any Problems can be sent to behrooziali28@gmail.com or issues above.
