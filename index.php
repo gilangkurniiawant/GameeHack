@@ -69,7 +69,7 @@ if(isset($_GET['hash'])){
 
     curl_setopt($ch, CURLOPT_POSTFIELDS,
 
-                json_encode($data,JSON_UNESCAPED_SLASHES));
+    json_encode($data,JSON_UNESCAPED_SLASHES));
     curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
 
     $html = curl_exec($ch);
