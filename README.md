@@ -1,5 +1,6 @@
 # Gamee Hack
 This will hack your score on Gamee Telegram bot
+This script works for any games on Gamee Bot.
 
 ## How to use
 1. Install php on your device.
